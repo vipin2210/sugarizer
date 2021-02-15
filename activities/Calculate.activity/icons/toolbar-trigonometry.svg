@@ -1,7 +1,1 @@
-<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
-	<!ENTITY fill_color "#FFFFFF">
-]><svg enable-background="new 0 0 55 55" height="55px" version="1.1" viewBox="0 0 55 55" width="55px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
-<g display="block" id="toolbar-trigonometry">
-    <path d="M12,38 l31,0 l-31,-26z" stroke="&fill_color;" stroke-width="3.5" fill="none"/>
-    <path d="M12,30 l8,0 l0,8" stroke="&fill_color;" stroke-width="1.5" fill="none"/>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" x="0" y="0" enable-background="new 0 0 55 55" version="1.1" viewBox="0 0 55 55" xml:space="preserve"><g id="toolbar-trigonometry" display="block"><path fill="none" stroke="#FFF" stroke-width="3.5" d="M12,38 l31,0 l-31,-26z"/><path fill="none" stroke="#FFF" stroke-width="1.5" d="M12,30 l8,0 l0,8"/></g></svg>
